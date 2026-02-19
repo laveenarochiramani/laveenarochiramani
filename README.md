@@ -1,7 +1,7 @@
 # Laveena Rochiramani
 **Financial Analyst | Cash Flow Forecasting | Working Capital Optimization | BI Dashboards | Finance Automation**
 
-📍 Irvine, CA • ✉️ laveenarochiramani@gmail.com • 🔗 LinkedIn (https://www.linkedin.com/in/laveena-rochiramani-9275a91b3/)
+📍 Irvine, CA • ✉️ laveenarochiramani@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/laveena-rochiramani-9275a91b3/)
 
 ## Snapshot
 - Identified **$1.2M** liquidity gaps and improved cash planning through AR/AP/inventory cycle analysis
@@ -11,7 +11,7 @@
 
 ## Portfolio
 - Live site: https://laveenarochiramani.github.io
-- Resume: Link here (https://github.com/laveenarochiramani/laveenarochiramani.github.io/tree/main/resume)
+- Resume: Link [here](https://github.com/laveenarochiramani/laveenarochiramani.github.io/blob/main/resume/Laveena_Rochiramani_Resume.pdf)
 
 ## Tool Stack
 **Excel (Advanced)** • Power BI • SQL • SAP S/4HANA • Oracle Financials • QuickBooks • Python (Basic)
